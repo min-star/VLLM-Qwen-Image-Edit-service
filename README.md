@@ -79,7 +79,8 @@ git clone https://github.com/vllm-project/vllm-omni.git
 cd vllm-omni
 uv pip install -e .
 ```
-
+### 版本截图
+![环境](./.assent/1.png)
 
 # 工程运行流程
 
